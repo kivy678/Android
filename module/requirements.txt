@@ -1,5 +1,5 @@
 pandas==1.0.5
-numpy==1.19.0
+numpy==1.22.0
 frida-tools==5.4.0
 frida==12.7.15
 yara-python==4.0.1
